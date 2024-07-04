@@ -1,0 +1,7 @@
+I used the Xpert Learning Assistant to help me with the inital code for looping through each worksheet to output the correct data in the correct column. 
+I also used it to help me calculate the percentage change.
+I referred a lot to the "credit card checker" solution code from Module 2 Class 3 Activities. 
+Also used Xpert for what formula to use for finding the max value and min value and putting them into another table on the side.
+Used ChatGPT to help me with finding the corresponding ticker for the max and min value and putting it into the table as well.
+Ran my code through ChatGPT to find out why it wasn't working for each worksheet, and made the correct adjustments.
+Everything was working, but my calculcation for the stock changes were different than the solution images in the assignment. I realized I had "closePrice" as the closing price in the first row of each stock, not the close price of the last day of the quarter. I used ChatGPT to help me adjust my code to have closePrice be the correct cell.
